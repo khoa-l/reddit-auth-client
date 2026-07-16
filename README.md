@@ -1,4 +1,4 @@
-# Reddit Post Viewer
+# Reddit Auth Client
 
 View Reddit posts with comments, images, videos, galleries, and links.
 
